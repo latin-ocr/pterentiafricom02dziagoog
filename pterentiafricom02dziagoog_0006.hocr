@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pterentiafricom02dziagoog/pterentiafricom02dziagoog_0006.png"; bbox 0 0 2725 4650; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2692 298 2705 521">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2692 298 2705 521">
+     <span class='ocr_line' id='line_1_1' title="bbox 2692 298 2705 521; baseline 223 -2453"><span class='ocrx_word' id='word_1_1' title='bbox 2702 298 2704 303; x_wconf 90' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2703 324 2704 333; x_wconf 38' lang='grc' dir='ltr'>η</span> <span class='ocrx_word' id='word_1_3' title='bbox 2692 350 2705 481; x_wconf 38' lang='lat'>1113&lt;</span> <span class='ocrx_word' id='word_1_4' title='bbox 2703 516 2704 521; x_wconf 67' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
